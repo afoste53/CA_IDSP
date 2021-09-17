@@ -1,3 +1,6 @@
+/** Date pulled from
+https://drive.google.com/file/d/1rydAepWim_Pi0Krh1-RoJjJjDKwc4Gpv/view **/
+
 /**how mant distinct zip-codes are there?**/
 SELECT COUNT(DISTINCT zip_code) AS 'Distinct Zip Codes' from home_value_data;
 
